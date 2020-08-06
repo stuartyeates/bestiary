@@ -1,0 +1,41 @@
+
+
+samples
+# https://en.wikipedia.org/wiki/Polyglot_(computing) 3 examples
+# polygot markup using <div> / <p> / <a>
+# https://research.swtch.com/zip 3 examples
+# zip bomb https://en.wikipedia.org/wiki/Zip_bomb https://www.usenix.org/conference/woot19/presentation/fifield
+# XML laughs bomb https://en.wikipedia.org/wiki/Billion_laughs_attack (in content)
+# XML escaping games  (in content) 
+# XML entity referencing non-deferencable URL (http://www.example.org/)
+# XML entity referencing sensitive local file
+# XML referencing undefined entity 
+# Unicode private use characters (XML, HTML and plain text) 
+# Unicode noncharacters (XML, HTML and plain text)
+# mets file is the content file
+# postscript calendar printer https://www.sslug.dk/~chlor/calendar/
+# https://github.com/arialdomartini/morris-worm
+# empty file (valid C source)
+# white-space only file
+# Quine (computing)
+# SGML with CONCUR (never implemented)
+# https://en.wikipedia.org/wiki/XML_external_entity_attack
+# https://en.wikipedia.org/wiki/SQL_injection
+# English with te reo macrons (en, en_NZ)
+# English with French accents
+# XML with unicode roman numerials 
+
+
+
+Limits
+# The file being archived is the primary locus (not the metadata)
+# single file
+# languages I understand
+# censorship issues
+# copyright issues
+
+
+Acknowledgements
+# https://twitter.com/stuartayeates/status/1159580512035323904
+# http://www.ijdc.net/index.php/ijdc/article/view/8.1.120
+
