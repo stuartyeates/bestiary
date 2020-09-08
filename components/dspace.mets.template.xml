@@ -21,20 +21,20 @@
  <dmdSec ID="dmdSec_1">
   <mdWrap MDTYPE="OTHER" OTHERMDTYPE="QDC">
     <xmlData>
-      <dc:description></dc:description>
-      <dc:format>pdf</dc:format>
-      <dc:language>LANGUAGE</dc:language>
-      <dc:publisher>PUBLISHER</dc:publisher>
-      <dc:subject>SUBJECT</dc:subject>
-      <dc:title>TITLE</dc:title>
+      <dc:description>__DC_DESCRIPTION__</dc:description>
+      <dc:format>__DC_FORMAT__</dc:format>
+      <dc:language>__DC_LANGUAGE__</dc:language>
+      <dc:publisher>__DC_PUBLISHER__</dc:publisher>
+      <dc:subject>__DC_SUBJECT__</dc:subject>
+      <dc:title>__DC_TITLE__</dc:title>
       <dc:type>Text</dc:type>
     </xmlData>
   </mdWrap>
  </dmdSec>
  <fileSec>
    <fileGrp  USE="ORIGINAL">
-     <file ID="bitstream_1" MIMETYPE="application/pdf" SEQ="1" GROUPID="GROUP_bitstream_1">
-       <FLocat LOCTYPE="URL" xlink:type="simple" xlink:href="bitstream_99.pdf"/>
+     <file ID="bitstream_1" MIMETYPE="__MIMETYPE__" SEQ="1" GROUPID="GROUP_bitstream_1">
+       <FLocat LOCTYPE="URL" xlink:type="simple" xlink:href="__FILENAME__"/>
      </file>
    </fileGrp>
  </fileSec>
