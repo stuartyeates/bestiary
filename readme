@@ -1,6 +1,11 @@
 
 
-samples
+done
+# Special characters in filenames (see https://en.wikipedia.org/wiki/Comparison_of_file_systems)
+# Variously-sized ascii filenames
+# Variously-sized Unicode filenames
+
+todo
 # https://en.wikipedia.org/wiki/Polyglot_(computing) 3 examples
 # polygot markup using <div> / <p> / <a>
 # https://research.swtch.com/zip 3 examples
@@ -25,11 +30,7 @@ samples
 # English with French accents
 # XML with unicode roman numerials 
 # password-locked zip file
-# Non-ASCII character in filename
-# More than 255 ASCII characters in filename
-# More than 255 Unicode characters in filename
 # More that 65,534 files in a directory
-# Special characters in filenames (see https://en.wikipedia.org/wiki/Comparison_of_file_systems)
 # 2 files of the same name in a zip file
 # file with a filename of '.' in a zip file
 # https://web.archive.org/web/20200907094402/https://executable-gif.glitch.me/image.gif
